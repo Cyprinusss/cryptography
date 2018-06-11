@@ -10,4 +10,12 @@ Playfair密码
 
 DES加密
 
+Hill密码
+
+RSA公钥密钥加密
+
+HSA1哈希加密
+
+其中EnDecrypty为作业代码cpp
+
 
